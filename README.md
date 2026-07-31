@@ -1,1 +1,1 @@
-# hiruy-bootcamp
+ Hello everyone I am Aklesia Fekadesilassie, A second year software engineering student at Addis Ababa university. I have joined this bootcamp aiming to increase my skills on software development. I look forward to it.
